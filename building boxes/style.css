@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    min-height: 130px;
+    width: 260px;
+    background-color: #B97A57;
+    display:inline-block;
+    margin:0px;
+}
+#wrapper{
+    width: 970px;
+    background-color: #FFD9B7;
+    margin: 0px auto;
+    padding:18px;
+}
+#navigation{
+    min-height: 130px;
+    width: 695px;
+    background-color: #FF7F27;
+    display:inline-block;    
+}
+#main_content{
+    min-height: 250px;
+    width: 960px;
+    background-color: #880015;
+    display:inline-block;
+}
+#about{
+    min-height: 250px;
+    width: 650px;
+    background-color: #FFAEC9;
+    display:inline-block;
+    margin: 60px;
+
+}
+#advertisement{
+    min-height: 200px;
+    width: 165px;
+    background-color: #C8BFE7;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:58px;
+
+}
+.sponsors{
+    min-height:70px;
+    width: 317px;
+    background-color: #FFFF88;
+    display:inline-block;
+    margin-top:15px;
+    
+}
